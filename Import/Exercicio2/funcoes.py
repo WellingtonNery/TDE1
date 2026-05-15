@@ -1,0 +1,2 @@
+def imprimirNome():
+    print("Diego")

@@ -1,0 +1,1 @@
+#*args aceita quantos dados o usuário entrar, sem um limite, já **kwargs recebe vários dados e transforma eles em um dicionário!

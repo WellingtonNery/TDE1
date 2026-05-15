@@ -1,0 +1,1 @@
+#Se você tiver um arquivo com este nome ele importará este arquivo ao invés da biblioteca math

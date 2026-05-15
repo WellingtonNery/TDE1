@@ -1,0 +1,1 @@
+#A função erro não tem uma condição que irá interrompê-la então ela contia rodando pra sempre, fazendo o python forçar uma parada

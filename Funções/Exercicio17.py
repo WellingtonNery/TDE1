@@ -1,0 +1,1 @@
+#Quando teste() for executada será impresso "5" e quando print(x) for executado será impresso "10"
